@@ -31,11 +31,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_map_marker_cluster: ^0.4.0
   location: ^5.0.0
   geolocator: ^9.0.2
   flutter_spinkit: ^5.2.0
   firebase_auth: ^4.6.3
-  cloud_firestore: ^ 4.8.2
+  cloud_firestore: ^4.8.2
   mysql1: ^0.20.0
   flutter_map: ^0.14.0
   http:
